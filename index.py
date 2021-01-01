@@ -1,4 +1,3 @@
-#coding=gbk
 import requests
 import json
 header1 = {
